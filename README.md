@@ -5,3 +5,4 @@ A text messaging app that pairs random people together and has them take turns a
 
 Contributors:
 -Josiah Grace
+-Seth Lauer
